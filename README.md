@@ -1,2 +1,1 @@
-# log_discret_simple
-Algorithmes d'attaques sur le log discret dans (Z/pZ)*
+# Attaques sur log discret dans (Z/pZ)*
